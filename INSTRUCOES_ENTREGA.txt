@@ -1,7 +1,7 @@
 ROTAALT — INSTRUÇÕES PARA TESTE
 
 Link do sistema hospedado em cloud:
-[PREENCHER COM O LINK PÚBLICO DEPOIS DA PUBLICAÇÃO]
+https://rennanos.github.io/Trabalho_SD/
 
 Funcionalidade demonstrada: cadastro de passageiro.
 Não é necessário fazer login para acessar o formulário.
@@ -21,6 +21,3 @@ Teste de validação malsucedida:
 
 Login de teste:
 Não se aplica. A funcionalidade de cadastro é pública e não exige login.
-
-Observação: a URL pública deve ser preenchida pelo líder do grupo após publicar
-a aplicação em um serviço de hospedagem cloud.
