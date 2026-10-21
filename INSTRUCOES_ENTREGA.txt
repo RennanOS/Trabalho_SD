@@ -15,9 +15,8 @@ Teste de validação bem-sucedida:
 
 Teste de validação malsucedida:
 1. Acesse novamente a página de cadastro.
-2. Envie o formulário com os campos obrigatórios vazios ou use uma senha diferente da confirmação.
+2. Envie o formulário com os campos obrigatórios vazios.
 3. O cadastro não será salvo; os campos com erro serão destacados e uma mensagem de erro aparecerá.
-4. Também é possível repetir um e-mail já cadastrado para ver a validação de e-mail duplicado.
 
 Login de teste:
 Não se aplica. A funcionalidade de cadastro é pública e não exige login.
